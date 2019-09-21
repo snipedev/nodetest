@@ -1,0 +1,15 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "testing for api rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/snipedev/nodetest"
+  },
+  "author": "Anurag",
+  "license": "ISC"
+}
